@@ -12,4 +12,4 @@ app = FastAPI(
 )
 
 # Add your routes here
-app.include_router()
+# using app.include_router()
