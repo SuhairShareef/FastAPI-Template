@@ -6,7 +6,7 @@ To get started with this template, follow the steps below:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/fastapi-template.git
+   git clone https://github.com/suhairshareef/fastapi-template.git
    ```
 
 2. Navigate to the project directory:
